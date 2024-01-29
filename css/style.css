@@ -1,0 +1,93 @@
+/*==================navbar==================*/
+
+.navbar{
+    position: relative  
+}
+
+.icon {
+    display: flex;
+    position: absolute;
+    list-style: none;
+    letter-spacing: 16px;
+    font-size: 19px;
+    margin-left:129px ;
+    margin-top: -25px;
+}
+
+.heading{
+    padding-left: 392px;
+    padding-top: 247px;
+}
+li{
+    list-style: none;
+}
+.h1{
+    color: red;
+}
+.h2{
+    padding-left: 35px;
+    color: whitesmoke;
+}
+/*============kies========================*/
+.kies-section{
+    margin-top: 62px;
+}
+
+
+.button1:hover{
+background: red;
+
+}
+
+
+.btn{
+    letter-spacing: 2px;
+}
+.button1{
+    display: inline-block;
+    margin-top: 14px;
+}
+/*======================furniture================*/
+
+
+/*================tree==============================*/
+.tree-contant{
+    text-align: center;
+}
+.button2{
+    display: inline-block;
+    background:red;
+  
+    position: absolute
+
+}
+.button2:hover{
+    background: green;
+}
+/*
+.tree-image::before{
+content: url(../img/tree.png);
+
+
+
+
+}
+
+/*==================location=====================*/
+
+
+/*=====================footer==================*/
+
+.icon2{
+    display: flex;
+    letter-spacing: 12px;
+}
+.hr{
+    width: 100%;
+    height: 1px;
+    background: red;
+}
+.copy{
+    text-align: center;
+    padding: 15px;
+}
